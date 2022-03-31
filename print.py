@@ -1,5 +1,6 @@
-i = 3
-j = 4
-c = i +j
-print('hello')
+def add(i,j):
+    sum=0
+    sum=i+j
+    return sum
+print(sum)
 
